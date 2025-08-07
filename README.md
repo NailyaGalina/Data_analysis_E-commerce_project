@@ -6,7 +6,7 @@
 ### Стек:
 Python (pandas, numpy, seaborn, matplotlib).
 
-Решение и выводы в файле **[E-commerce_project.ipynb](E-commerce_project.ipynb)**
+Решение и выводы в файле **[E-commerce_project](E-commerce_project.ipynb)**
 
 ### Описание данных:
 **olist_customers_dataset.csv** — таблица с уникальными идентификаторами пользователей  
